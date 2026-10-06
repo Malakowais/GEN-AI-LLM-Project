@@ -1,0 +1,25 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+
+# LLM Providers
+langchain-openai
+langchain-google-genai
+langchain-xai
+
+# Direct Provider SDKs
+openai
+google-genai
+xai-sdk
+
+# Environment Variables
+python-dotenv
+
+# Data / HTTP
+requests
+httpx
+
+# Useful GenAI utilities
+pydantic
+langchain_huggingface
